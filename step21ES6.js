@@ -7,3 +7,4 @@ const uppercaseString = (string) => {
   }
   
   export { uppercaseString, lowercaseString };
+ 
